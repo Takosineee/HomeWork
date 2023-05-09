@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#Ignore Lab_Console
+Lab_Console/
+
+#Ignore Lab_Form
+Lab_Form/
+
+#Ignore SR
+SR.txt
+
+#Ignore SW
+SW.txt
